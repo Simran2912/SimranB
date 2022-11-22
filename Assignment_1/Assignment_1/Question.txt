@@ -1,0 +1,11 @@
+﻿Create class Student
+Create Class BSCStudent
+Create Class MCAStudent
+
+Use Inheritance
+//Virtual Keyword
+Use overriding/Overloading (Can be used for resultCalculation)
+
+Accept Stream BSC or MCA
+Enter marks for subjects
+Give Result in percentage.
