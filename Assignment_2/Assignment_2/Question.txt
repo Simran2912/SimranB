@@ -1,0 +1,5 @@
+﻿Write a program to reverse a string 
+using  extension method..  
+accepting string from user. 
+Reverse it using extension method... 
+make it uppercase.
